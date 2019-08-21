@@ -1,4 +1,4 @@
-{"version_code":452999,"content":"
+{"version_code":452,"content":"
 <p>تحديث 4.02</p>
 <li>حدث لكي لا تتوقف النسخه عندك</li>
 </li>تم اصلاح مشاكل كثيره</li>
@@ -7,7 +7,7 @@
 <li>تم تمديد النسخه6 اشهر</li>
 <li> تعديل علاء اسماعيل<li>
 
-<p>New Base Updated 2.001</p>
+<p>New Base Updated 4.02</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
 
 ","url":"https://www.free-netsyra.com/2019/07/whatsapp-plus.html"
