@@ -6,8 +6,19 @@
 <li>تم اضافه خيار جديد للاعدادات</li>
 <li>تم اضافة ميزات اخره لتخطي الحظر</li>
 <li>تم اضافه القرأن الكريم</li>
+<li>حدث لكي تحصل على نسخة خارقة</li>
 <li>تعديل علاء اسماعيل تحيا لكم من القلب 😎😘</li>
-
+<p> ----------------------------- </p>
+<p> English </p>
+<p> Update 4.30 </p>
+<li> Themes have been fixed and beautiful things have been added </li>
+<li> Images and smilies have been added so that those who do not know readers know what this option is. </li>
+<li> Added a section for programs </li>
+<li> Added a new option for the settings </li>
+<li> Other features have been added to bypass the block </li>
+<li> The Koran was added
+<li> happened to get a superhero copy </li>
+<li> Modified Alaa Ismail long live you from the heart 😎😘 </li>
 
 ","url":"https://www.free-netsyra.com/2019/07/whatsapp-plus.html"
 }
