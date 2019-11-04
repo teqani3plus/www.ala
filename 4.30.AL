@@ -5,5 +5,5 @@
 <li>تعديل علاء اسماعيل تحيا لكم من القلب 😎😘</li>
 
 
-","url":"https://www.free-netsyra.com/2019/10/text-nwo.html"
+","url":"https://www.free-netsyra.com"
 }
