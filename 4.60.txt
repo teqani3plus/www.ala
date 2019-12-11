@@ -1,2 +1,10 @@
-{'ver1':'4', 'ver2':'60', 'ver3':'\n[Base] Update 2.19.291\n[Added] Instagram-like Store you can enable it from Home Screen >> Header\n[Added] Disable clicking on "WhatsApp"\n[Added] Hide Muted Status update\n[Added] Hide Viewed Status update\n[Added] Hide Recent Status update[Fixed] The Crash on Kitkat users\n' , 'dli':'https://www.free-netsyra.com/2019/12/blog-post_5.html?m=1
-'}
+{"version_code":452870,"content":"
+<p>تحديث جديد للاصدار 4.60</p>
+تحديث قاعدة <<p>2.19.150</p>
+<p>يجب مسح النسخة القديمة وتثبيت من جديد</p>
+<p>سيتم اضافة الميزات الاخره في اقرب وقت</p>
+<p>إصلاحمشكلة الانهيارات في بعض الاجهزة</p>
+<p>مزيد إصلاحات وتحسينات أخرى</p>
+
+ ","url":"https://www.free-netsyra.com/2019/07/whatsapp-plus.html"
+}
