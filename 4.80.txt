@@ -18,4 +18,6 @@
 <p> • امكانية ايقاف ظهور الاشعارات عندما سماع مقطع صوتي</p>
  <p>• اضافة خيار لاضافة رقم جديد وفتح دردشة معه بشكل مباشر</p>
  
- </p>شكرا لكم</p>\n', 'dli':'https://www.free-netsyra.com/2019/07/whatsapp-plus.html'}
+ </p>شكرا لكم</p>
+ 
+ \n', 'dli':'https://www.free-netsyra.com/2019/07/whatsapp-plus.html'}
