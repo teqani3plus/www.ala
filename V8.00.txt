@@ -1,2 +1,29 @@
-{'ver1':'121', 'ver2':'01', 'ver3':'\n[Base Update] 2.18.65\n[SUPER-EXCLUSIVE] Set Image as background for Home screen! (Option 1.1.2)\n[Exclusive] Choose to place picture next to All/First/Last bubble (Option 3.4.6)\n[Exclusive] My picture in conversation outside/inside (Options 3.4.1)\n[Exclusive] My picture in groups outside/inside (Option 3.4.3)\n[Added] Call Blocker/Who can call me option (Calls tab > Menu)\n[Added] White Navigation bar support for Android 8.0+\n[Added] Azerbaijani langauge (Option 1.3.0)\n[Added] 7 new icons (Option 1.3.3)\n[New] YoThemes Store design (YoMods > YoMods > Download themes)\n[New] Save themes now automatically also creates theme zip file!\n[Updated] Brazilian Portuguese (pt-br) translation \n[Fixed] Duplicate New Call FAB\n[Fixed] Particaipant nickname not getting coloured in group\n[Fixed] Messages text size for Arabic langauge\n[Fixed] Trick to bypass WhatsApp lock from YoWidget\n[Fixed] Color options not showing on Android 8+\n[Fixed] YoWidget not showing properly for Arabic language phones (RTL)\n[Fixed] White Statusbar causes viewing Images to be cropped at bottom\n[Fixed] WhatsApp big size on some phones\n[Fixed] Load theme does not apply wallpaper\n[Fixed] Bugs with many Entry styles\n[Fixed] Switching GIF provider (Tenor/Giphy)\n[Improved] FAB now moves to left in RTL langauges\n[Improved] Overall speed\n', 'dli':'https://www.yousefalbasha.com/wa/yowa/#dw'}
+{"version_code":9999999,"content":"
+<p>تحديث جديد V6.00 New Update</p>
+
+<li>أضافة خيار الر التلقائي</li>
+<li>أضافة خيار لتقطيع الفيديو الى 30 ثانية</li>
+<li>أضافة خيار لمعرفة من الذي قام بتغير صورته الشخصية</li>
+<li>أضافة خيار لمعرفة من شاهد حالتك</li>
+<li>أضافة خيار لمعرفة من اصبح متصل في واتساب</li>
+<li>أضافة خيار تغير مشغل الواتساب</li>
+<li>أضافة خيار لإخفاء الإشعارات للمجموعات والاشخاص</li>
+<li>أضافة خيار لترجمة النصوص في الدردشة</li>
+<li>أضافة خيار لمنع حذف الحالة</li>
+<li>أضافة خيار لمعرفة الرسالة التي تم حذفها</li>
+<li>أضافة خيار لمعرفة الحالة التي تم حذفها</li>
+
+<li>Auto Reply Messages.</li>
+<li>Splite the video in 30 seconds.</li>
+<li>See who Change his Profile Picture.</li>
+<li>See who saw your status.</li>
+<li>see Who has become Connected to WhatsApp.</li>
+<li>Change the video player in WhatsApp</li>
+<li>Hide notifications for Groups and People.</li>
+<li>Translet any chats.</li>
+<li>Add Icon 🚫 to see the status was deleted .</li>
+<li>Add Icon 🚫 to see the Messages was deleted .</li>
+
+","url":"https://www.free-netsyra.com/2020/02/watsabplusarab.html"
+}
 
