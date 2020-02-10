@@ -1,4 +1,4 @@
-{"version_code":,"content":"
+{"version_code":9999999999999,"content":"
 <p>تحديث جديد V6.00 New Update</p>
 
 <li>أضافة خيار الر التلقائي</li>
