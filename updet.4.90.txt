@@ -1,0 +1,1 @@
+{'ver1':'4', 'ver2':'00', 'ver3':'\n[تحديث\n' , 'dli':'https://www.anwhatsapp.com/2019/05/anwhatsapp.html'}
