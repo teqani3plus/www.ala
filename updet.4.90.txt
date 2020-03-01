@@ -1,2 +1,3 @@
-{'ver1':'4', 'ver2':'93', 'ver3':'\n
+{'ver1':'4', 'ver2':'00', 'ver3':'\n[تــحديث جديد 
+رســـالة دعم لموقع علاء اســماعيل
 \n' , 'dli':'https://www.free-netsyra.com/2019/07/whatsapp-plus.html'}
