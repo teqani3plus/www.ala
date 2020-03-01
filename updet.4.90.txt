@@ -1,1 +1,1 @@
-{'ver1':'4', 'ver2':'91', 'ver3':'\n[تديث حديد واضافة مايلي]¨\n\n[رسالة دعم].\n' , 'dli':'https://www.anwhatsapp.com/2019/05/anwhatsapp.html'}
+{'ver1':'4', 'ver2':'91', 'ver3':'\n[الاضافات في هذا التحديث]¨\n\n[رسالة دعم].\n' , 'dli':'https://www.anwhatsapp.com/2019/05/anwhatsapp.html'}
