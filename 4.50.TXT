@@ -1,13 +1,12 @@
-{"version_code":453096,"content":"
-<p>تحديث جديد للاصدار 4.60</p>
-تحديث قاعدة <<p>2.19.150</p>
-<p>يجب مسح النسخة القديمة وتثبيت من جديد</p>
-<p>سيتم اضافة الميزات الاخره في اقرب وقت</p>
-<p>إصلاحمشكلة الانهيارات في بعض الاجهزة</p>
-<p>مزيد إصلاحات وتحسينات أخرى</p>
+{"version_code":453193,"content":"
+<p> تحديث|Update 0.20.22L</p>
 
 
+<li>تحديث جديد متاح</li>
 
- 
- ","url":"https://www.free-netsyra.com/2019/07/whatsapp-plus.html"
+
+<li> New Update Available</li>
+
+
+","url":"https://soula107.blogspot.com/2019/08/wago.html"
 }
