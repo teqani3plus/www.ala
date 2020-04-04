@@ -1,1 +1,0 @@
-{'num':'whatsapp', 'msgs':'\nThis app is FREE and does NOT cost any money\n'}
