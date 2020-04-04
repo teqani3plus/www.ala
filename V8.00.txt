@@ -1,29 +1,0 @@
-{"version_code":452850,"content":"
-<p>تحديث جديد V6.00 New Update</p>
-
-<li>أضافة خيار الر التلقائي</li>
-<li>أضافة خيار لتقطيع الفيديو الى 30 ثانية</li>
-<li>أضافة خيار لمعرفة من الذي قام بتغير صورته الشخصية</li>
-<li>أضافة خيار لمعرفة من شاهد حالتك</li>
-<li>أضافة خيار لمعرفة من اصبح متصل في واتساب</li>
-<li>أضافة خيار تغير مشغل الواتساب</li>
-<li>أضافة خيار لإخفاء الإشعارات للمجموعات والاشخاص</li>
-<li>أضافة خيار لترجمة النصوص في الدردشة</li>
-<li>أضافة خيار لمنع حذف الحالة</li>
-<li>أضافة خيار لمعرفة الرسالة التي تم حذفها</li>
-<li>أضافة خيار لمعرفة الحالة التي تم حذفها</li>
-
-<li>Auto Reply Messages.</li>
-<li>Splite the video in 30 seconds.</li>
-<li>See who Change his Profile Picture.</li>
-<li>See who saw your status.</li>
-<li>see Who has become Connected to WhatsApp.</li>
-<li>Change the video player in WhatsApp</li>
-<li>Hide notifications for Groups and People.</li>
-<li>Translet any chats.</li>
-<li>Add Icon 🚫 to see the status was deleted .</li>
-<li>Add Icon 🚫 to see the Messages was deleted .</li>
-
-","url":"https://www.free-netsyra.com/2020/02/watsabplusarab.html"
-}
-
