@@ -1,1 +1,1 @@
-{'ver1':'6', 'ver2':'10', 'ver3':'\nيتوفر اصدار جديد\n', 'dli':'https://www.yousefalbasha.com/wa/yowa/#dw'}
+{'ver1':'6', 'ver2':'10'}
