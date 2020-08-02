@@ -1,0 +1,1 @@
+{'ver1':'7', 'ver2':'40', 'ver3':'\nاشترك\n[Improved] Overall speed\n', 'dli':'https://t.me/whatsapp_2_plus'}
