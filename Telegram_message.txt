@@ -1,1 +1,1 @@
-{'ver1':'7', 'ver2':'40', 'ver3':'\nاشترك\n[Improved] Overall speed\n', 'dli':'https://t.me/whatsapp_2_plus'}
+{'ver1':'8', 'ver2':'36', 'ver3':'\nاشترك في قنات علاء \nعلى التلجرام شكرا لاستخدامك ALwhatsapp\n' , 'dli':'https://t.me/whatsapp_2_plus', 'exp831':'47', 'exp835':'170'}
