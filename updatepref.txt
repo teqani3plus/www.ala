@@ -1,1 +1,32 @@
 {'ver1':'6', 'ver2':'35'}
+<p>🔘تـــحديث جديد الاصدار V6.35</p>
+
+<p>🔘 سيتوقف اصدارV6.30 يرجا التحديث</p>
+
+<p>🔘تحديث اصلاحي لجميع المشاكل في النسخة</p>
+
+<p>🔘تم حل مشكلة تحميل الوسائط </p>
+
+<p>🔘تم حل المشاكل بل الكامل يرجا التحديث </p>
+
+<p>🔘اضافة 24 ثيم جديد </p>
+
+<p>🔘اصلاح كامل لنسخة تعمل وضد الحظر </p>
+
+<p>🔘أصلاح الانهيار عند تثبيت النسحة</p>
+
+ <p> 🔘 New update version V6.35 </p>
+
+<p> 🔘 V6.30 release will stop, please update </p>
+
+<p> 🔘 Correct update for all problems in the version </p>
+
+<p> 🔘 The media loading </p> issue has been resolved
+
+<p> 🔘 Problems have been resolved, but please update </p>
+
+<p> 🔘 Add 24 new themes </p>
+
+<p> 🔘 Full fix on unblocked version </p>
+
+<p> 🔘 Crash recovery when installing </p>
